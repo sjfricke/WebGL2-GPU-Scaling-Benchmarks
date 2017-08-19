@@ -1,0 +1,15 @@
+{
+  "name": "webgl2_gpu_scaling_benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spencer Fricke",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.6.3",
+    "serve-static": "^1.12.4"
+  }
+}
